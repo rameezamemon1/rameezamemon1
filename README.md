@@ -3,7 +3,7 @@
 
 <br/>
 <p align="center"> 
-<a href="https://www.linkedin.com/in/rameezamemon1/"><img src="https://img.shields.io/badge/-Rameeza%20Memon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rameeza-memon/"><img src="https://img.shields.io/badge/-Rameeza%20Memon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:haseebzaidi321@gmail.com"><img src="https://img.shields.io/badge/-rameeza.memon1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=rameezamemon1&label=Profile%20views&color=0e75b6&style=flat" alt="rameezamemon1" /> </p>
 
