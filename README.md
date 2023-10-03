@@ -2,9 +2,11 @@
 <h4 align="center">Full-Stack Developer.</h4>
 
 <br/>
-
 <p align="center"> 
-<a href="https://www.linkedin.com/in/rameezamemon1/">
+<a href="https://www.linkedin.com/in/rameezamemon1/"><img src="https://img.shields.io/badge/-Rameeza%20Memon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:haseebzaidi321@gmail.com"><img src="https://img.shields.io/badge/-rameeza.memon1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=rameezamemon1&label=Profile%20views&color=0e75b6&style=flat" alt="rameezamemon1" /> </p>
+
 
 <br/>
 
@@ -64,6 +66,6 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameezamemon1&show_icons=true&locale=en&layout=compact" alt="rameezamemon1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haseebasim&show_icons=true&locale=en&layout=compact" alt="haseebasim" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rameezamemon1&show_icons=true&locale=en" alt="rameezamemon1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=haseebasim&show_icons=true&locale=en" alt="haseebasim" /></p>
