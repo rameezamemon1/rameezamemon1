@@ -24,7 +24,7 @@
 
 <table align="center">
 
-    <tr style="height: 80px;">
+    <tr>
 
         <td align="center" width="96"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -47,7 +47,7 @@
                     height="40" /> </a> </td>
     </tr>
 
-    <tr style="height: 80px;">
+    <tr >
         <td align="center" width="96"><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
                     height="40" /> </a> </td>
@@ -66,7 +66,7 @@
             </a> </td>
 
     </tr>
-    <tr style="height: 80px;">
+    <tr >
 
         <td align="center" width="96"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
                     src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
@@ -84,7 +84,7 @@
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                     alt="react" width="50" height="50" /> </a> </td>
     </tr>
-    <tr style="height: 80px;">
+    <tr >
         <td align="center" width="96">
             <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
