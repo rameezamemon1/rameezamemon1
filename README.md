@@ -16,7 +16,7 @@
 
 - 👨‍💻 I am currently working as an **Frontend developer @ Inspon tech**.
 - 🌱 I'm currently learning **Nest Js & Typescript**.
-- 💬 I love to talk about **React, Next, Node, AWS, Full Stack Development**.
+- 💬 I love to talk about **React, Next, Node, Full Stack Development**.
 - 📩 You can reach out to me via **[Email](mailto:rameeza.memon1@gmail.com)**.
 - ⚡ Constantly learning new technologies.
 
